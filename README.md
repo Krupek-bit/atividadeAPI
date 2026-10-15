@@ -155,3 +155,5 @@ Acesse `http://localhost:5173`.
 - Vue 3 + Vite + Axios
 - Postman
 - [PokéAPI](https://pokeapi.co/)
+
+Sim eu pedi pro chat deixar bonitinho
