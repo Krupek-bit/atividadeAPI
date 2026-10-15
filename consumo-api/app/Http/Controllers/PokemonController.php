@@ -25,3 +25,4 @@ class PokemonController extends Controller
         ]);
     }
 }
+
